@@ -1,2 +1,7 @@
 # OptimA
-Tool to find optimal assembly using the miniasm long read assembler.
+
+Tool to find *Optim*al *A*ssembly using the miniasm long read assembler.
+
+
+
+
